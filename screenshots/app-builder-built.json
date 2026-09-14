@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Мои любимые артисты",
+      "hasCanvas": false,
+      "bodyTextLen": 188,
+      "bodyTextHash": "5f4832f361081735d927ebbb0362b10f687b8216b34df810bc2128be8a292223",
+      "bodyTextPrefix": "ADÉLA CHARLI XCX ARIANA GRANDE ICE SPICE OLIVIA RODRIGO 01 / 25 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Мои любимые артисты",
+      "hasCanvas": false,
+      "bodyTextLen": 132,
+      "bodyTextHash": "3fcd84aa0cc7efa5de4a29107979eee246f55b4f7d6fd89d24226eb31f4f75ef",
+      "bodyTextPrefix": "01 / 25 25 СЛАЙДОВ · 5 ВСЕЛЕННЫХ мои любимые артисты ADÉLA · Cha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
